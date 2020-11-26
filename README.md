@@ -1,6 +1,6 @@
 # Insertion-Sort-SingleLinkedList
 
-Program Insertion Sort menggunakan bahasa Java
+Program Insertion Sort menggunakan bahasa Python dan Java
 
 # Output
 
